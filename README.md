@@ -98,8 +98,3 @@ Achieved >90% accuracy in vehicle detection.
 Reduced congestion waiting times by ~25% in simulation tests.
 
 Supports future scalability for multi-junction traffic systems.
-
-### 👨‍💻 Contributors
-
-Sivamathu T – Developer
-Thiru Murugan K - Developer
